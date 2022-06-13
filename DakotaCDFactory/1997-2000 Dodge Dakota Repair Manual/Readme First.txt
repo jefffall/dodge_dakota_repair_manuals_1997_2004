@@ -1,0 +1,1 @@
+If you want to bypass the instructions/welcome page etc., the file '00AN_FR' is the start of the manual.  From there the table of contents is linked to the other files in the directory.
